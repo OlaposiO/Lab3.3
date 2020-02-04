@@ -1,0 +1,11 @@
+C:\Users\oomishope\source\repos\Lab_3.3\Lab_3.3\bin\Debug\netcoreapp3.1\Lab_3.3.exe
+C:\Users\oomishope\source\repos\Lab_3.3\Lab_3.3\bin\Debug\netcoreapp3.1\Lab_3.3.deps.json
+C:\Users\oomishope\source\repos\Lab_3.3\Lab_3.3\bin\Debug\netcoreapp3.1\Lab_3.3.runtimeconfig.json
+C:\Users\oomishope\source\repos\Lab_3.3\Lab_3.3\bin\Debug\netcoreapp3.1\Lab_3.3.runtimeconfig.dev.json
+C:\Users\oomishope\source\repos\Lab_3.3\Lab_3.3\bin\Debug\netcoreapp3.1\Lab_3.3.dll
+C:\Users\oomishope\source\repos\Lab_3.3\Lab_3.3\bin\Debug\netcoreapp3.1\Lab_3.3.pdb
+C:\Users\oomishope\source\repos\Lab_3.3\Lab_3.3\obj\Debug\netcoreapp3.1\Lab_3.3.csprojAssemblyReference.cache
+C:\Users\oomishope\source\repos\Lab_3.3\Lab_3.3\obj\Debug\netcoreapp3.1\Lab_3.3.AssemblyInfoInputs.cache
+C:\Users\oomishope\source\repos\Lab_3.3\Lab_3.3\obj\Debug\netcoreapp3.1\Lab_3.3.AssemblyInfo.cs
+C:\Users\oomishope\source\repos\Lab_3.3\Lab_3.3\obj\Debug\netcoreapp3.1\Lab_3.3.dll
+C:\Users\oomishope\source\repos\Lab_3.3\Lab_3.3\obj\Debug\netcoreapp3.1\Lab_3.3.pdb
